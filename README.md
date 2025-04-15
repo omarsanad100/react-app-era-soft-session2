@@ -1,17 +1,33 @@
-Product Cart UI Web App
-Description
-This is a Product Cart UI web application built with React and Tailwind CSS. The app allows users to browse through a collection of products, add items to their cart, view a payment summary, and place orders. It features a clean and responsive design, making it user-friendly across all devices.
+🛒 Product Cart UI Web App
+📌 Description
+This is a Product Cart UI web application built with React and Tailwind CSS. It allows users to:
 
-The application leverages React components to dynamically render product data, cart items, and payment details. Tailwind CSS is used to create a modern, mobile-first UI with consistent styling.
+Browse a collection of products
 
-Features
-Product Showcase: Displays a grid of products with details like name, price, old price, and rating.
-Cart Management: Allows users to view items in their cart, including quantity and subtotal.
-Payment Summary: Provides a detailed summary of the total payment, including tax and subtotal.
-Wishlist and Order Buttons: Users can add products to a wishlist or place an order directly.
-Dynamic Styling: Highlights active payment methods and applies consistent UI styling.
-Responsive Design: Fully responsive layout for mobile, tablet, and desktop devices.
-Tech Stack
+Add items to their cart
+
+View a detailed payment summary
+
+Place orders easily
+
+The application features a clean, responsive design that works seamlessly across all devices. It uses reusable React components to render product data, cart items, and payment details dynamically. Tailwind CSS ensures consistent, mobile-first styling throughout the app.
+
+✨ Features
+Product Showcase: Grid display of products with name, price, old price, and rating
+
+Cart Management: View cart items, manage quantities, and see subtotal
+
+Payment Summary: Detailed total with tax and subtotal
+
+Wishlist & Order Buttons: Add items to wishlist or place an order directly
+
+Dynamic Styling: Highlight active payment methods and UI interactions
+
+Responsive Design: Optimized for mobile, tablet, and desktop
+
+🧰 Tech Stack
 Frontend: React, Tailwind CSS
+
 State Management: React Props
-Responsive Design: Tailwind CSS (mobile-first approach)
+
+Responsive Design: Tailwind CSS (Mobile-first approach)
