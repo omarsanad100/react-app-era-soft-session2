@@ -31,10 +31,10 @@ const ProductListComponentsUi = ({ products }) => {
             </section>
 
             <div className="mt-4 flex justify-between">
-              <button className="bg-gray-200 px-4 py-2 rounded">
+              <button className="bg-gray-200 px-4 py-2 rounded cursor-pointer">
                 Wishlist
               </button>
-              <button className="bg-orange-500 text-white px-4 py-2 rounded">
+              <button className="bg-orange-500 text-white px-4 py-2 rounded cursor-pointer">
                 Order Now
               </button>
             </div>
