@@ -1,12 +1,17 @@
-# React + Vite
+Product Cart UI Web App
+Description
+This is a Product Cart UI web application built with React and Tailwind CSS. The app allows users to browse through a collection of products, add items to their cart, view a payment summary, and place orders. It features a clean and responsive design, making it user-friendly across all devices.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The application leverages React components to dynamically render product data, cart items, and payment details. Tailwind CSS is used to create a modern, mobile-first UI with consistent styling.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Features
+Product Showcase: Displays a grid of products with details like name, price, old price, and rating.
+Cart Management: Allows users to view items in their cart, including quantity and subtotal.
+Payment Summary: Provides a detailed summary of the total payment, including tax and subtotal.
+Wishlist and Order Buttons: Users can add products to a wishlist or place an order directly.
+Dynamic Styling: Highlights active payment methods and applies consistent UI styling.
+Responsive Design: Fully responsive layout for mobile, tablet, and desktop devices.
+Tech Stack
+Frontend: React, Tailwind CSS
+State Management: React Props
+Responsive Design: Tailwind CSS (mobile-first approach)
